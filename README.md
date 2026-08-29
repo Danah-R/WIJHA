@@ -1,3 +1,3 @@
-# wjha
+# WIJHA
 
 A new Flutter project.
