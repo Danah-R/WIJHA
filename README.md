@@ -24,8 +24,6 @@ The itinerary is displayed using interactive cards containing images, descriptio
 
 ### Personalization Page
 
-<img width="1080" height="2400" alt="Screenshot_1788054619" src="https://github.com/user-attachments/assets/62ee5d18-b9fa-4be7-931f-33eacc134ba5" />
-<img width="1080" height="2400" alt="Screenshot_1788054611" src="https://github.com/user-attachments/assets/a8a0e023-affe-4e43-b3fc-dd28c3ad041b" />
 The first page allows the user to select:
 
 Number of days
@@ -40,6 +38,7 @@ What cities they are visiting?
 - Abha
 - AlUla
 - Jeddah
+- + (if the city is not mentioned)
 
 What interests them? (The user can choose up to 3 interests.)
 
@@ -59,15 +58,13 @@ Who they are traveling with?
 - Friends
 
 After making their choices, the user can select **Find my WIJHA** to view their personalized itinerary.
+| Personalization Page | Personalization Page |
+|:---:|:---:|
+| <img width="1080" height="2400" alt="Screenshot_1788054611" src="https://github.com/user-attachments/assets/a8a0e023-affe-4e43-b3fc-dd28c3ad041b" /> |<img width="1080" height="2400" alt="Screenshot_1788054619" src="https://github.com/user-attachments/assets/62ee5d18-b9fa-4be7-931f-33eacc134ba5" /> |
 
 ---
 
 ## Personalized Itinerary
-<img width="1080" height="2400" alt="Screenshot_1788054721" src="https://github.com/user-attachments/assets/9cb65665-f06e-495e-a430-b4fbb72c0733" />
-<img width="1080" height="2400" alt="Screenshot_1788054694" src="https://github.com/user-attachments/assets/a1623fb3-6a0b-4aa5-bef1-48b1ff5dd367" />
-<img width="1080" height="2400" alt="Screenshot_1788054681" src="https://github.com/user-attachments/assets/e02a16a6-dfb9-4915-8c3f-20a7ad7e9627" />
-<img width="1080" height="2400" alt="Screenshot_1788054650" src="https://github.com/user-attachments/assets/473a62ec-6436-41ba-9015-20aa9f5cc9a8" />
-<img width="1080" height="2400" alt="Screenshot_1788054643" src="https://github.com/user-attachments/assets/74265154-7a1f-49e8-ba11-ba47ab0dda4b" />
 
 The second page displays an itinerary based on the choices selected by the user on the first page.
 
@@ -75,7 +72,7 @@ The current prototype demonstrates a 3-day Riyadh itinerary with activities and 
 
 Each recommendation is displayed using an interactive card that includes:
 
-- Images of the place that is recommendedfor them
+- Images of the place that is recommended for them
 - The place's name
 - A location icon
 - A favorite icon
@@ -85,6 +82,13 @@ Users can tap a card to expand it and view more information. The other cards shr
 
 Users can also swipe through multiple images within each recommendation card.
 
+| Day 1 location 1 | Day 2 location 1| Day 3 location 1|
+|:---:|:---:|:---:|
+|<img width="1080" height="2400" alt="Screenshot_1788054650" src="https://github.com/user-attachments/assets/7961f09d-659d-4197-879d-f7cc36952789" /> | <img width="1080" height="2400" alt="Screenshot_1788056286" src="https://github.com/user-attachments/assets/0c421a6e-181a-40c8-88d5-139987149123" /> | <img width="1080" height="2400" alt="Screenshot_1788056297" src="https://github.com/user-attachments/assets/9edd080b-ef09-4e9f-8319-7a8c3ee8c711" /> | 
+| Day 1 location 2 | Day 2 location 2| Day 3 location 2|
+<img width="1080" height="2400" alt="Screenshot_1788056312" src="https://github.com/user-attachments/assets/fa9faa18-6cbd-4aa2-adbc-45c218ea5553" /> | <img width="1080" height="2400" alt="Screenshot_1788056926" src="https://github.com/user-attachments/assets/0e850cd6-4fc4-4afe-9f4e-a691cfe6cac6" /> | <img width="1080" height="2400" alt="Screenshot_1788056341" src="https://github.com/user-attachments/assets/faf4d37a-d0db-4c4e-bd37-50480f218685" /> | 
+| Day 1 location 3 | Day 2 location 3| Day 3 location 3|
+<img width="1080" height="2400" alt="Screenshot_1788056354" src="https://github.com/user-attachments/assets/e9bfdf51-4764-4d8d-a0be-25c6be432eb4" /> | <img width="1080" height="2400" alt="Screenshot_1788056358" src="https://github.com/user-attachments/assets/df671bb4-7202-48ab-bbd4-9403c8e82c5b" /> | <img width="1080" height="2400" alt="Screenshot_1788054694" src="https://github.com/user-attachments/assets/afcb16b3-8346-4de2-ab90-d5003459ed6d" />
 ---
 
 ## Flutter Widgets Used
