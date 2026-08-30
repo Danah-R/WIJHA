@@ -82,12 +82,12 @@ Users can tap a card to expand it and view more information. The other cards shr
 
 Users can also swipe through multiple images within each recommendation card.
 
-| Day 1 location 1 | Day 2 location 1| Day 3 location 1|
+| Day 1 location 1 | Day 1 location 2| Day 1 location 3|
 |:---:|:---:|:---:|
 |<img width="1080" height="2400" alt="Screenshot_1788054650" src="https://github.com/user-attachments/assets/7961f09d-659d-4197-879d-f7cc36952789" /> | <img width="1080" height="2400" alt="Screenshot_1788056286" src="https://github.com/user-attachments/assets/0c421a6e-181a-40c8-88d5-139987149123" /> | <img width="1080" height="2400" alt="Screenshot_1788056297" src="https://github.com/user-attachments/assets/9edd080b-ef09-4e9f-8319-7a8c3ee8c711" /> | 
-| Day 1 location 2 | Day 2 location 2| Day 3 location 2|
+| Day 2 location 1 | Day 2 location 2| Day 2 location 3|
 <img width="1080" height="2400" alt="Screenshot_1788056312" src="https://github.com/user-attachments/assets/fa9faa18-6cbd-4aa2-adbc-45c218ea5553" /> | <img width="1080" height="2400" alt="Screenshot_1788056926" src="https://github.com/user-attachments/assets/0e850cd6-4fc4-4afe-9f4e-a691cfe6cac6" /> | <img width="1080" height="2400" alt="Screenshot_1788056341" src="https://github.com/user-attachments/assets/faf4d37a-d0db-4c4e-bd37-50480f218685" /> | 
-| Day 1 location 3 | Day 2 location 3| Day 3 location 3|
+| Day 3 location 1 | Day 3 location 2| Day 3 location 3|
 <img width="1080" height="2400" alt="Screenshot_1788056354" src="https://github.com/user-attachments/assets/e9bfdf51-4764-4d8d-a0be-25c6be432eb4" /> | <img width="1080" height="2400" alt="Screenshot_1788056358" src="https://github.com/user-attachments/assets/df671bb4-7202-48ab-bbd4-9403c8e82c5b" /> | <img width="1080" height="2400" alt="Screenshot_1788054694" src="https://github.com/user-attachments/assets/afcb16b3-8346-4de2-ab90-d5003459ed6d" />
 ---
 
