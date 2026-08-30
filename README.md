@@ -1,6 +1,6 @@
 # WIJHA🧭
 
-# WIJHA, ##Saudi Your Way
+# WIJHA, Saudi Your Way
 
 A Flutter travel-planning app that creates a personalized Saudi experience based on the user's travel preferences.
 
