@@ -91,6 +91,7 @@ class _Page2State extends State<Page2> {
             ),
             SingleChildScrollView(
               scrollDirection: Axis.horizontal,
+              padding: const EdgeInsets.symmetric(horizontal: 16),
               child: Row(
               children: [
                 InkWell(
@@ -473,6 +474,7 @@ class _Page2State extends State<Page2> {
             ),
             SingleChildScrollView(
               scrollDirection: Axis.horizontal,
+              padding: const EdgeInsets.symmetric(horizontal: 16),
               child: Row(
               children: [
                 InkWell(
@@ -855,6 +857,7 @@ class _Page2State extends State<Page2> {
             ),
             SingleChildScrollView(
               scrollDirection: Axis.horizontal,
+              padding: const EdgeInsets.symmetric(horizontal: 16),
               child: Row(
               children: [
                 InkWell(

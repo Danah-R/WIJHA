@@ -31,7 +31,7 @@ class _Page1State extends State<Page1> {
             Text(
               "WIJHA,",
               style: GoogleFonts.poppins(
-                fontSize: 28,
+                fontSize: 30,
                 fontWeight: FontWeight.w800,
                 letterSpacing: 0.75,
                 height: 1,
@@ -63,7 +63,7 @@ class _Page1State extends State<Page1> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(
-              "How many days is your stay?",
+              "How long is your trip?",
               style: TextStyle(
                 fontSize: 18,
                 fontWeight: FontWeight.bold,
