@@ -38,7 +38,7 @@ What cities they are visiting?
 - Abha
 - AlUla
 - Jeddah
-- + (if the city is not mentioned)
+- '+' (if the city is not mentioned)
 
 What interests them? (The user can choose up to 3 interests.)
 
