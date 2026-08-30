@@ -1,6 +1,6 @@
 # WIJHA🧭
 
-# WIJHA, Saudi Your Way
+# WIJHA, Saudi Your Way🫵
 
 A Flutter travel-planning app that creates a personalized Saudi experience based on the user's travel preferences.
 
@@ -8,17 +8,17 @@ WIJHA helps users choose how long they are staying, which Saudi cities they are 
 
 ---
 
-## Project Overview
+## Project Overview -- Why WIJHA?🤔
 
-WIJHA is designed to make planning a trip around Saudi Arabia easier and more personalized.
+### Why WIJHA?
 
-Instead of giving every traveler the same recommendations, the app asks the user about their preferences and uses their choices to create a personalized itinerary.
+When traveling, people often follow generic or random itineraries that do not match their interests or travel style. This can lead to spending time on activities they are not interested in, feeling unsatisfied with their trip, or feeling like they didn't make the most of it.
 
-The current prototype demonstrates a 3-day Riyadh itinerary based on the selected preferences.
+There are also many local spots and experiences that travelers may not know about or find easily when planning a trip.
 
-The itinerary is displayed using interactive cards containing images, descriptions, location icons, and favorite icons.
-
+WIJHA aims to solve these problems by creating a personalized Saudi travel experience. Users can choose their trip duration, cities, interests, pace, and who they are traveling with. Based on these choices, WIJHA provides a personalized itinerary with places and activities that match what the user wants, while helping them discover places they may not have found on their own.
 ---
+
 
 ## What's Included
 
@@ -26,13 +26,13 @@ The itinerary is displayed using interactive cards containing images, descriptio
 
 The first page allows the user to select:
 
-Number of days
+Number of days⏱️
 - 1–3 days
 - 4–7 days
 - 1–2 weeks
 - 2+ weeks
 
-What cities they are visiting?
+What cities they are visiting?🏙️
 - Riyadh
 - Neom
 - Abha
@@ -40,7 +40,7 @@ What cities they are visiting?
 - Jeddah
 - '+' (if the city is not mentioned)
 
-What interests them? (The user can choose up to 3 interests.)
+What interests them? (The user can choose up to 3 interests.)✨
 
 - Heritage
 - Cuisine
@@ -49,15 +49,15 @@ What interests them? (The user can choose up to 3 interests.)
 - Shopping
 
 Their preferred pace
-- Calm
-- Active
+- Calm✨
+- Active⚡️
 
 Who they are traveling with?
-- Solo
-- Family
-- Friends
+- Solo🧍
+- Family🧑‍🧑‍🧒
+- Friends👭
 
-After making their choices, the user can select **Find my WIJHA** to view their personalized itinerary.
+After making their choices, the user can select **Find my WIJHA** to view their personalized itinerary.🤩
 | Personalization Page | Personalization Page |
 |:---:|:---:|
 | <img width="1080" height="2400" alt="Screenshot_1788054611" src="https://github.com/user-attachments/assets/a8a0e023-affe-4e43-b3fc-dd28c3ad041b" /> |<img width="1080" height="2400" alt="Screenshot_1788054619" src="https://github.com/user-attachments/assets/62ee5d18-b9fa-4be7-931f-33eacc134ba5" /> |
