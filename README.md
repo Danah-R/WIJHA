@@ -40,7 +40,7 @@ What cities they are visiting?🏙️
 - Jeddah
 - '+' (if the city is not mentioned)
 
-What interests them? (The user can choose up to 3 interests.)✨
+What interests them? (The user can choose up to 3 interests.)💫
 
 - Heritage
 - Cuisine
@@ -57,7 +57,7 @@ Who they are traveling with?
 - Family🧑‍🧑‍🧒
 - Friends👭
 
-After making their choices, the user can select **Find my WIJHA** to view their personalized itinerary.🤩
+After making their choices, the user can select **Find my WIJHA** to view their personalized itinerary.🗺️
 | Personalization Page | Personalization Page |
 |:---:|:---:|
 | <img width="1080" height="2400" alt="Screenshot_1788054611" src="https://github.com/user-attachments/assets/a8a0e023-affe-4e43-b3fc-dd28c3ad041b" /> |<img width="1080" height="2400" alt="Screenshot_1788054619" src="https://github.com/user-attachments/assets/62ee5d18-b9fa-4be7-931f-33eacc134ba5" /> |
