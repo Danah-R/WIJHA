@@ -10,13 +10,13 @@ WIJHA helps users choose how long they are staying, which Saudi cities they are 
 
 ## Project Overview -- Why WIJHA?🤔
 
-### Why WIJHA?
-
 When traveling, people often follow generic or random itineraries that do not match their interests or travel style. This can lead to spending time on activities they are not interested in, feeling unsatisfied with their trip, or feeling like they didn't make the most of it.
 
 There are also many local spots and experiences that travelers may not know about or find easily when planning a trip.
 
-WIJHA aims to solve these problems by creating a personalized Saudi travel experience. Users can choose their trip duration, cities, interests, pace, and who they are traveling with. Based on these choices, WIJHA provides a personalized itinerary with places and activities that match what the user wants, while helping them discover places they may not have found on their own.
+WIJHA aims to solve these problems by creating a personalized Saudi travel experience. Users can choose their trip duration, cities, interests, pace, and who they are traveling with. Based on these choices, WIJHA provides an itinerary with places and activities that better match what the user wants, while helping them discover places they may not have found on their own.
+
+
 ---
 
 
