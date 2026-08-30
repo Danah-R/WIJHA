@@ -24,44 +24,50 @@ The itinerary is displayed using interactive cards containing images, descriptio
 
 ### Personalization Page
 
+<img width="1080" height="2400" alt="Screenshot_1788054619" src="https://github.com/user-attachments/assets/62ee5d18-b9fa-4be7-931f-33eacc134ba5" />
+<img width="1080" height="2400" alt="Screenshot_1788054611" src="https://github.com/user-attachments/assets/a8a0e023-affe-4e43-b3fc-dd28c3ad041b" />
 The first page allows the user to select:
 
-- Number of days
+Number of days
 - 1–3 days
 - 4–7 days
 - 1–2 weeks
 - 2+ weeks
 
-- Cities
+What cities they are visiting?
 - Riyadh
 - Neom
 - Abha
 - AlUla
 - Jeddah
 
-- What interests them
+What interests them? (The user can choose up to 3 interests.)
+
 - Heritage
 - Cuisine
 - Future
 - Nature
 - Shopping
 
-- Preferred pace
+Their preferred pace
 - Calm
 - Active
 
-- Who they are traveling with
+Who they are traveling with?
 - Solo
 - Family
 - Friends
-
-The user can choose up to 3 interests.
 
 After making their choices, the user can select **Find my WIJHA** to view their personalized itinerary.
 
 ---
 
 ## Personalized Itinerary
+<img width="1080" height="2400" alt="Screenshot_1788054721" src="https://github.com/user-attachments/assets/9cb65665-f06e-495e-a430-b4fbb72c0733" />
+<img width="1080" height="2400" alt="Screenshot_1788054694" src="https://github.com/user-attachments/assets/a1623fb3-6a0b-4aa5-bef1-48b1ff5dd367" />
+<img width="1080" height="2400" alt="Screenshot_1788054681" src="https://github.com/user-attachments/assets/e02a16a6-dfb9-4915-8c3f-20a7ad7e9627" />
+<img width="1080" height="2400" alt="Screenshot_1788054650" src="https://github.com/user-attachments/assets/473a62ec-6436-41ba-9015-20aa9f5cc9a8" />
+<img width="1080" height="2400" alt="Screenshot_1788054643" src="https://github.com/user-attachments/assets/74265154-7a1f-49e8-ba11-ba47ab0dda4b" />
 
 The second page displays an itinerary based on the choices selected by the user on the first page.
 
@@ -69,11 +75,11 @@ The current prototype demonstrates a 3-day Riyadh itinerary with activities and 
 
 Each recommendation is displayed using an interactive card that includes:
 
-- Multiple images
-- Place name
-- Location icon
-- Favorite icon
-- Short description
+- Images of the place that is recommendedfor them
+- The place's name
+- A location icon
+- A favorite icon
+- A description of the place and why the place satisfies their interests
 
 Users can tap a card to expand it and view more information. The other cards shrink when a card is selected.
 
@@ -135,24 +141,6 @@ The project was built using Flutter and focuses on practicing core Flutter widge
 - `Navigator.push`
 - `MaterialPageRoute`
 - `StatefulWidget`
-
----
-
-## Key Flutter Concepts
-
-- Everything in Flutter is built using widgets.
-- Widgets are combined by nesting them inside one another.
-- `Row` and `Column` organize widgets horizontally and vertically.
-- `Expanded` allows widgets to share available space.
-- `Container` controls size, color, borders, and decoration.
-- `setState()` updates the UI when the user makes a selection.
-- `InkWell` allows parts of the interface to respond to taps.
-- `PageView` allows users to swipe through multiple images.
-- `AnimatedContainer` creates a smooth transition when a recommendation is selected.
-- `SingleChildScrollView` allows the content to fit on smaller screens.
-- `Navigator.push` is used to move from the personalization page to the itinerary page.
-- `GlobalKey` is used to identify individual itinerary cards.
-- `Scrollable.ensureVisible` moves the selected card into view.
 
 ---
 
