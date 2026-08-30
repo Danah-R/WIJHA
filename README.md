@@ -1,4 +1,4 @@
-# WIJHA🧭
+# WIJHA وِجهة🧭
 
 # WIJHA, Saudi Your Way🫵
 
